@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: darkblue;
+}
+
+#h111{
+    color: cornsilk;
+    background-color: deepskyblue;
+    text-align: center;
+    margin-top: 5%;
+}
+
+#a1{
+    position: absolute;
+    margin-top: 7.5%;
+    margin-left: 10%;
+}
+
+#a2{
+    position: absolute;
+    margin-top: 7.5%;
+    margin-left: 37.5%;
+}
+
+#a3{
+    position: absolute;
+    margin-top: 7.5%;
+    margin-left: 65%;
+}

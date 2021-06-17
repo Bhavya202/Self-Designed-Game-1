@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: greenyellow;
+}
+
+#hr1{
+    background-color: rgb(78, 78, 78);
+    margin-top: 2%;
+}
+
+#title1{
+    background-color: aqua;
+    color: darkorange;
+    text-align: center;
+}
+
+#hr2{
+    background-color: rgb(78, 78, 78);
+}
+
+#hr3{
+    background-color: black;
+    margin-top: 2%;
+}
+
+#question1{
+    color: goldenrod;
+    text-align: left;
+    background-color: whitesmoke;
+}
+
+#answer1{
+    color: rgb(122, 110, 37);
+    text-align: left;
+    background-color: whitesmoke;
+}
+
+#hr4{
+    background-color: black;
+}
+
+#hr5{
+    background-color: black;
+    margin-top: 2%;
+}
+
+#question2{
+    color: goldenrod;
+    text-align: left;
+    background-color: whitesmoke;
+}
+
+#answer2{
+    color: rgb(122, 110, 37);
+    text-align: left;
+    background-color: whitesmoke;
+}
+
+#hr6{
+    background-color: black;
+}
+
+#hr7{
+    background-color: black;
+    margin-top: 2%;
+}
+
+#question3{
+    color: goldenrod;
+    text-align: left;
+    background-color: whitesmoke;
+}
+
+#answer3{
+    color: rgb(122, 110, 37);
+    text-align: left;
+    background-color: whitesmoke;
+}
+
+#hr8{
+    background-color: black;
+}
+
+#hr9{
+    background-color: black;
+    margin-top: 2%;
+}
+
+#question4{
+    color: goldenrod;
+    text-align: left;
+    background-color: whitesmoke;
+}
+
+#answer4{
+    color: rgb(122, 110, 37);
+    text-align: left;
+    background-color: whitesmoke;
+}
+
+#hr10{
+    background-color: black;
+}
+
+#hr11{
+    background-color: black;
+    margin-top: 2%;
+}
+
+#question5{
+    color: goldenrod;
+    text-align: left;
+    background-color: whitesmoke;
+}
+
+#answer5{
+    color: rgb(122, 110, 37);
+    text-align: left;
+    background-color: whitesmoke;
+}
+
+#hr12{
+    background-color: black;
+}
+
+#hr13{
+    background-color: black;
+    margin-top: 2%;
+}
+
+#question6{
+    color: goldenrod;
+    text-align: left;
+    background-color: whitesmoke;
+}
+
+#answer6{
+    color: rgb(122, 110, 37);
+    text-align: left;
+    background-color: whitesmoke;
+}
+
+#hr14{
+    background-color: black;
+}
+
+#hr15{
+    background-color: black;
+    margin-top: 2%;
+}
+
+#question7{
+    color: goldenrod;
+    text-align: left;
+    background-color: whitesmoke;
+}
+
+#answer7{
+    color: rgb(122, 110, 37);
+    text-align: left;
+    background-color: whitesmoke;
+}
+
+#hr16{
+    background-color: black;
+}
